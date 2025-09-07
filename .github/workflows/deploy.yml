@@ -25,4 +25,3 @@ jobs:
       with:
         name: MyStack
         template: my-template.cft
-        parameter-overrides: "MyParam1=value1,MyParam2=value2"
